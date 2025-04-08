@@ -450,11 +450,11 @@ rm -rf ~/.cache/coder
 sudo apt remove coder -y
 ```
 
-## 友链
+## 其他
 
 #### 一键测试服务器的融合怪脚本
 
-https://github.com/spiritLHLS/ecs
+https://github.com/xk320/ecs
 
 #### 一键批量开NAT服务器的LXD脚本
 
@@ -464,6 +464,6 @@ https://github.com/spiritLHLS/lxd
 
 https://github.com/spiritLHLS/pve
 
-#### 朋友fscarmen的常用一键工具仓库
+#### fscarmen的常用一键工具仓库
 
 https://github.com/fscarmen/tools
